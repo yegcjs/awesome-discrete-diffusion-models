@@ -13,7 +13,7 @@ This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair 
 ## Table of Contents
 
 * [Introductory Posts](#introduction)
-* [Papers](#papers)
+* Papers
   * [Surveys](#surveys)
   * [Discrete Diffusion with Discrete Noise](#discrete)
   * [Discrete Diffusion with Gaussian Noise](#gaussian)
