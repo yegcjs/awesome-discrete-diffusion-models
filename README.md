@@ -65,7 +65,7 @@ This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair 
 ### Guidance Mechanisms  <a name="guidance"></a>
 
 * Unlocking Guidance for Discrete State-Space Diffusion and Flow Models, arXiv 2024 [[arXiv](https://arxiv.org/abs/2406.01572)]
-* Protein Design with Guided Discrete Diffusion, NeurIPS 2023 [[arXiv](https://arxiv.org/abs/2305.20009)]
+* Protein Design with Guided Discrete Diffusion, NeurIPS 2023 [[arXiv](https://arxiv.org/abs/2305.20009), [code](https://github.com/ngruver/NOS)]
 
 ### Custom Noise Processes  <a name="custom"></a>
 
