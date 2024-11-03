@@ -18,8 +18,8 @@ This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair 
   * [Discrete Diffusion with Gaussian Noise](#gaussian)
   * [Discrete Diffusion with Discrete Noise](#discrete)
   * [Samplers](#samplers)
-  * [Guidance Mechanisms]("#guidance")
-  * [Custom Noise Processes]("#custom")
+  * [Guidance Mechanisms](#guidance)
+  * [Custom Noise Processes](#custom)
   * [Theory](#theory)
   * [Applications](#applications)
 
