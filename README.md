@@ -17,13 +17,16 @@ This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair 
 * [Blog Posts](#blog-posts)
 * [Talks](#talks)
 
-## Introduction
-A "simple and effective" tutorial on Diffusion Language Models:
+## Introductory Posts
+* A "simple and effective" tutorial on Masked Diffusion Language Models.
 <p align="center">
   <a href="https://youtu.be/WjAUX23vgfg?si=bM1E-Bt-nwOmsVif" title="Click">
     <img src="https://github.com/user-attachments/assets/1f6b7ba2-b423-483a-9d11-bbbeb8a11860" alt="Everything Is AWESOME" style="width:50%;">
   </a>
 </p>
+
+* Diffusion Language Models  [[URL](https://benanne.github.io/2023/01/09/diffusion-language.html)]
+* My notes on discrete denoising diffusion models (D3PMs)[[URL](https://beckham.nz/2022/07/11/d3pms.html)]
 
 ## Resources
 
