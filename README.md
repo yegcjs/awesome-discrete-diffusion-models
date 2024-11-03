@@ -43,6 +43,7 @@ This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair 
 ### Discrete Diffusion with Discrete Noise
 * Simple and Effective Masked Diffusion Language Models [[arXiv](https://arxiv.org/abs/2406.07524), [Code](https://github.com/kuleshov-group/mdlm)]
 * Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution [[arXiv](https://arxiv.org/abs/2310.16834), [Code](https://github.com/louaaron/Score-Entropy-Discrete-Diffusion)]
+* Generative Flows on Discrete State-Spaces: Enabling Multimodal Flows with Applications to Protein Co-Design [[arXiv](https://arxiv.org/abs/2402.04997)]
 * DiffusER: Discrete Diffusion via Edit-based Reconstruction, ICLR 2023  [[arXiv](https://arxiv.org/abs/2210.16886), [Code](https://github.com/machelreid/diffuser)]
 * Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning, ICLR 2023  [[arXiv](https://arxiv.org/abs/2208.04202), [Code](https://github.com/google-research/pix2seq)]
 * EdiT5: Semi-Autoregressive Text Editing with T5 Warm-Start, arXiv 2022  [[arXiv](https://arxiv.org/abs/2205.12209), [Code](https://edit5.page.link/code)]
