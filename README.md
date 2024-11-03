@@ -13,8 +13,7 @@ This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair 
 ## Table of Contents
 
 * [Introductory Materials](#introduction)
-* Papers
-  * [Surveys](#surveys)
+* Topic areas
   * [Discrete Diffusion with Discrete Noise](#discrete)
   * [Discrete Diffusion with Gaussian Noise](#gaussian)
   * [Samplers](#samplers)
@@ -22,7 +21,8 @@ This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair 
   * [Custom Noise Processes](#custom)
   * [Theory](#theory)
   * [Applications](#applications)
-
+  * [Surveys](#surveys)
+  
 ## Introductory Materials  <a name="introduction"></a>
 * Getting started with Diffusion Language Models, 2024.
 <p align="center">
@@ -35,11 +35,6 @@ This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair 
 * My notes on discrete denoising diffusion models (D3PMs), 2022 [[URL](https://beckham.nz/2022/07/11/d3pms.html)]
 
 ## Papers  <a name="papers"></a>
-
-### Surveys   <a name="surveys"></a>
-
-* Diffusion Models for Non-autoregressive Text Generation: A Survey, IJCAI 2023 Survey Track [[arXiv](https://arxiv.org/abs/2303.06574)]
-* A Survey of Diffusion Models in Natural Language Processing, arXiv 2023 [[arXiv](https://arxiv.org/abs/2305.14671)]
 
 ### Discrete Diffusion with Discrete Noise   <a name="discrete"></a>
 * Simple and Effective Masked Diffusion Language Models, NeurIPS 2024 [[arXiv](https://arxiv.org/abs/2406.07524), [code](https://github.com/kuleshov-group/mdlm)]
@@ -89,3 +84,8 @@ This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair 
 * Scaling up Masked Diffusion Models on Text, arXiv 2024 [[arXiv](https://arxiv.org/abs/2410.18514)]
 * Likelihood-Based Diffusion Language Models, NeurIPS 2023 [[arXiv](https://arxiv.org/abs/2305.18619), [code](https://github.com/igul222/plaid)]
 * Diffusion Language Models Can Perform Many Tasks with Scaling and Instruction-Finetuning, arXiv 2023 [[arXiv](https://arxiv.org/abs/2308.12219), [code](https://github.com/yegcjs/DiffusionLLM)]
+
+### Surveys   <a name="surveys"></a>
+
+* Diffusion Models for Non-autoregressive Text Generation: A Survey, IJCAI 2023 Survey Track [[arXiv](https://arxiv.org/abs/2303.06574)]
+* A Survey of Diffusion Models in Natural Language Processing, arXiv 2023 [[arXiv](https://arxiv.org/abs/2305.14671)]
