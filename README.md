@@ -42,11 +42,15 @@ This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair 
   
 ### Discrete Diffusion with Discrete Noise
 * Simple and Effective Masked Diffusion Language Models [[arXiv](https://arxiv.org/abs/2406.07524), [code](https://github.com/kuleshov-group/mdlm)]
+* Simplified and Generalized Masked Diffusion for Discrete Data [[arXiv](https://arxiv.org/abs/2406.04329)]
+* Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data [[arXiv](https://arxiv.org/abs/2406.03736), [code](https://github.com/ML-GSAI/RADD)]
 * Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution [[arXiv](https://arxiv.org/abs/2310.16834), [code](https://github.com/louaaron/Score-Entropy-Discrete-Diffusion)]
 * Generative Flows on Discrete State-Spaces: Enabling Multimodal Flows with Applications to Protein Co-Design [[arXiv](https://arxiv.org/abs/2402.04997)]
 * DiffusER: Discrete Diffusion via Edit-based Reconstruction, ICLR 2023  [[arXiv](https://arxiv.org/abs/2210.16886), [code](https://github.com/machelreid/diffuser)]
 * Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning, ICLR 2023  [[arXiv](https://arxiv.org/abs/2208.04202), [code](https://github.com/google-research/pix2seq)]
+* DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models [[arXiv](https://arxiv.org/abs/2210.08933), [code](https://github.com/Shark-NLP/DiffuSeq)]
 * EdiT5: Semi-Autoregressive Text Editing with T5 Warm-Start, arXiv 2022  [[arXiv](https://arxiv.org/abs/2205.12209), [code](https://edit5.page.link/code)]
+* A Continuous Time Framework for Discrete Denoising Models [[arXiv](https://arxiv.org/abs/2205.14987), [code](https://github.com/andrew-cr/tauLDR)]
 * Autoregressive Diffusion Models, ICLR 2022  [[arXiv](https://arxiv.org/abs/2110.02037)]
 * Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions, NeurIPS 2021  [[arXiv](https://arxiv.org/abs/2102.05379)]
 * Structured Denoising Diffusion Models in Discrete State-Spaces, NeurIPS 2021  [[arXiv](https://arxiv.org/abs/2107.03006)]
