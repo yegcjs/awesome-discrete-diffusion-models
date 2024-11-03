@@ -23,22 +23,22 @@ This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair 
   * [Applications](#applications)
 
 ## Introductory Posts  <a name="introduction"></a>
-* A "simple and effective" tutorial on Masked Diffusion Language Models.
+* A "simple and effective" tutorial on Masked Diffusion Language Models, 2024.
 <p align="center">
   <a href="https://youtu.be/WjAUX23vgfg?si=bM1E-Bt-nwOmsVif" title="Click">
     <img src="https://github.com/user-attachments/assets/1f6b7ba2-b423-483a-9d11-bbbeb8a11860" alt="Everything Is AWESOME" style="width:50%;">
   </a>
 </p>
 
-* Diffusion Language Models  [[URL](https://benanne.github.io/2023/01/09/diffusion-language.html)]
-* My notes on discrete denoising diffusion models (D3PMs)[[URL](https://beckham.nz/2022/07/11/d3pms.html)]
+* Diffusion Language Models, 2023 [[URL](https://benanne.github.io/2023/01/09/diffusion-language.html)]
+* My notes on discrete denoising diffusion models (D3PMs), 2022 [[URL](https://beckham.nz/2022/07/11/d3pms.html)]
 
 ## Papers  <a name="papers"></a>
 
 ### Surveys   <a name="surveys"></a>
 
-* Diffusion Models for Non-autoregressive Text Generation: A Survey [[arXiv](https://arxiv.org/abs/2303.06574)]
-* A Survey of Diffusion Models in Natural Language Processing [[arXiv](https://arxiv.org/abs/2305.14671)]
+* Diffusion Models for Non-autoregressive Text Generation: A Survey, IJCAI 2023 Survey Track [[arXiv](https://arxiv.org/abs/2303.06574)]
+* A Survey of Diffusion Models in Natural Language Processing, arXiv 2023 [[arXiv](https://arxiv.org/abs/2305.14671)]
 
 ### Discrete Diffusion with Gaussian Noise  <a name="gaussian"></a>
 
@@ -74,8 +74,8 @@ This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair 
 
 ### Theory  <a name="theory"></a>
 
-* Categorical SDEs with Simplex Diffusion, arXiv 2022  [[arXiv](https://arxiv.org/abs/2210.14784)]
 * Formulating Discrete Probability Flow Through Optimal Transport, NeurIPS 2023 [[arXiv](https://arxiv.org/abs/2311.03886)]
+* Categorical SDEs with Simplex Diffusion, arXiv 2022  [[arXiv](https://arxiv.org/abs/2210.14784)]
 
 ### Applications  <a name="applications"></a>
 
