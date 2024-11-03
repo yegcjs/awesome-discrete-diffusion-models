@@ -65,7 +65,8 @@ This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair 
 * Structured Denoising Diffusion Models in Discrete State-Spaces, NeurIPS 2021  [[arXiv](https://arxiv.org/abs/2107.03006), [code](https://github.com/google-research/google-research/tree/master/d3pm)]
 
 ### Samplers  <a name="samplers"></a>
-* Jump Your Steps: Optimizing Sampling Schedule of Discrete Diffusion Models [[arXiv](https://arxiv.org/abs/2410.07761)]
+* Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling, arXiv 2024 [[arXiv](https://arxiv.org/abs/2409.02908)]
+* Jump Your Steps: Optimizing Sampling Schedule of Discrete Diffusion Models, arXiv 2024 [[arXiv](https://arxiv.org/abs/2410.07761)]
 
 ### Guidance Mechanisms  <a name="guidance"></a>
 * Steering Masked Discrete Diffusion Models via Discrete Denoising Posterior Prediction, arXiv 2024 [[arXiv](https://arxiv.org/abs/2410.08134)]
