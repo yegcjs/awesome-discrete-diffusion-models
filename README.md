@@ -32,39 +32,50 @@ This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair 
 
 ### Surveys
 
-* Diffusion Models for Non-autoregressive Text Generation: A Survey [[arxiv](https://arxiv.org/abs/2303.06574)]
-* A Survey of Diffusion Models in Natural Language Processing [[arxiv](https://arxiv.org/abs/2305.14671)]
+* Diffusion Models for Non-autoregressive Text Generation: A Survey [[arXiv](https://arxiv.org/abs/2303.06574)]
+* A Survey of Diffusion Models in Natural Language Processing [[arXiv](https://arxiv.org/abs/2305.14671)]
 
-### Papers
+### Discrete Diffusion with Gaussian Noise
 
-#### Year 2023
+### Discrete Diffusion with Discrete Noise
 
-* Diffusion Language Models Can Perform Many Tasks with Scaling and Instruction-Finetuning, arXiv 2023 [[PDF](https://arxiv.org/abs/2308.12219.pdf), [Code](https://github.com/yegcjs/DiffusionLLM)]
-* DINOISER: Diffused Conditional Sequence Learning By Manipulating Noises, TACL [[PDF](https://arxiv.org/abs/2302.10025.pdf), [Code](https://github.com/yegcjs/DINOISER)]
+### Guidance Mechanisms
+
+### Custom Noise Processes
+
+### Theory
+
+* Categorical SDEs with Simplex Diffusion, arXiv 2022  [[arXiv](https://arxiv.org/abs/2210.14784)]
+* Formulating Discrete Probability Flow Through Optimal Transport [[arXiv](https://arxiv.org/abs/2311.03886)]
+
+### Applications
+
+* Diffusion Language Models Can Perform Many Tasks with Scaling and Instruction-Finetuning, arXiv 2023 [[arXiv](https://arxiv.org/abs/2308.12219), [Code](https://github.com/yegcjs/DiffusionLLM)]
+* DINOISER: Diffused Conditional Sequence Learning By Manipulating Noises, TACL [[arXiv](https://arxiv.org/abs/2302.10025), [Code](https://github.com/yegcjs/DINOISER)]
 
 
 #### Year 2022
-* Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning, ICLR 2023  [[PDF](https://arxiv.org/pdf/2208.04202.pdf), [Code](https://github.com/google-research/pix2seq)]
+* Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning, ICLR 2023  [[arXiv](https://arxiv.org/abs/2208.04202), [Code](https://github.com/google-research/pix2seq)]
 
-* EdiT5: Semi-Autoregressive Text Editing with T5 Warm-Start, arXiv 2022  [[PDF](https://arxiv.org/abs/2205.12209), [Code](https://edit5.page.link/code)]
+* EdiT5: Semi-Autoregressive Text Editing with T5 Warm-Start, arXiv 2022  [[arXiv](https://arxiv.org/abs/2205.12209), [Code](https://edit5.page.link/code)]
 
-* SSD-LM: Semi-autoregressive Simplex-based Diffusion Language Model for Text Generation and Modular Control, arXiv 2022  [[PDF](https://openreview.net/forum?id=HJlWWJSFDH), [Code](https://github.com/xhan77/ssd-lm)]
+* SSD-LM: Semi-autoregressive Simplex-based Diffusion Language Model for Text Generation and Modular Control, arXiv 2022  [[arXiv](https://openreview.net/forum?id=HJlWWJSFDH), [Code](https://github.com/xhan77/ssd-lm)]
 
-* DiffusER: Discrete Diffusion via Edit-based Reconstruction, ICLR 2023  [[PDF](https://arxiv.org/pdf/2210.16886.pdf), [Code](https://github.com/machelreid/diffuser)]
+* DiffusER: Discrete Diffusion via Edit-based Reconstruction, ICLR 2023  [[arXiv](https://arxiv.org/abs/2210.16886), [Code](https://github.com/machelreid/diffuser)]
 
-* Continuous diffusion for categorical data, arXiv 2022  [[PDF](https://dl.acm.org/doi/10.1145/3394486.3403237)]
+* Continuous diffusion for categorical data, arXiv 2022  [[arXiv](https://dl.acm.org/doi/10.1145/3394486.3403237)]
 
-* Self-conditioned Embedding Diffusion for Text Generation, NeurIPS 2022 [[PDF](https://arxiv.org/pdf/2211.04236.pdf)]
+* Self-conditioned Embedding Diffusion for Text Generation, NeurIPS 2022 [[arXiv](https://arxiv.org/abs/2211.04236)]
   
-* Diffusion-LM Improves Controllable Text Generation, NeurIPS 2022  [[PDF](https://arxiv.org/pdf/2205.14217.pdf), [Code](https://github.com/XiangLi1999/Diffusion-LM.git)]
+* Diffusion-LM Improves Controllable Text Generation, NeurIPS 2022  [[arXiv](https://arxiv.org/abs/2205.14217), [Code](https://github.com/XiangLi1999/Diffusion-LM.git)]
 
-* Categorical SDEs with Simplex Diffusion, arXiv 2022  [[PDF](https://arxiv.org/pdf/2210.14784.pdf)]
+
 
 #### Year 2021
-* Autoregressive Diffusion Models, ICLR 2022  [[PDF](https://arxiv.org/pdf/2110.02037.pdf)]
+* Autoregressive Diffusion Models, ICLR 2022  [[arXiv](https://arxiv.org/pdf/2110.02037.pdf)]
 
-* Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions, NeurIPS 2021  [[PDF](https://arxiv.org/pdf/2102.05379.pdf)]
+* Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions, NeurIPS 2021  [[arXiv](https://arxiv.org/pdf/2102.05379.pdf)]
   
-* Structured Denoising Diffusion Models in Discrete State-Spaces, NeurIPS 2021  [[PDF](https://arxiv.org/pdf/2107.03006.pdf)]
+* Structured Denoising Diffusion Models in Discrete State-Spaces, NeurIPS 2021  [[arXiv](https://arxiv.org/pdf/2107.03006.pdf)]
 
-* Discovering Non-monotonic Autoregressive Orderings with Variational Inference, ICLR 2021  [[PDF](https://arxiv.org/abs/2110.15797)]
+* Discovering Non-monotonic Autoregressive Orderings with Variational Inference, ICLR 2021  [[arXiv](https://arxiv.org/abs/2110.15797)]
