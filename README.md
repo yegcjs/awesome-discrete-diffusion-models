@@ -42,10 +42,10 @@ This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair 
 
 ### Discrete Diffusion with Gaussian Noise  <a name="gaussian"></a>
 
-* Continuous diffusion for categorical data, arXiv 2022  [[arXiv](https://arxiv.org/abs/2211.15089)]
 * SSD-LM: Semi-autoregressive Simplex-based Diffusion Language Model for Text Generation and Modular Control, ACL 2023  [[arXiv](https://arxiv.org/abs/2210.17432), [code](https://github.com/xhan77/ssd-lm)]
 * Diffusion-LM Improves Controllable Text Generation, NeurIPS 2022  [[arXiv](https://arxiv.org/abs/2205.14217), [code](https://github.com/XiangLi1999/Diffusion-LM.git)]
 * Self-conditioned Embedding Diffusion for Text Generation, NeurIPS 2022 [[arXiv](https://arxiv.org/abs/2211.04236)]
+* Continuous diffusion for categorical data, arXiv 2022  [[arXiv](https://arxiv.org/abs/2211.15089)]
   
 ### Discrete Diffusion with Discrete Noise   <a name="discrete"></a>
 * Simple and Effective Masked Diffusion Language Models, NeurIPS 2024 [[arXiv](https://arxiv.org/abs/2406.07524), [code](https://github.com/kuleshov-group/mdlm)]
