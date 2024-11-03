@@ -41,13 +41,6 @@ This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair 
 * Diffusion Models for Non-autoregressive Text Generation: A Survey, IJCAI 2023 Survey Track [[arXiv](https://arxiv.org/abs/2303.06574)]
 * A Survey of Diffusion Models in Natural Language Processing, arXiv 2023 [[arXiv](https://arxiv.org/abs/2305.14671)]
 
-### Discrete Diffusion with Gaussian Noise  <a name="gaussian"></a>
-
-* SSD-LM: Semi-autoregressive Simplex-based Diffusion Language Model for Text Generation and Modular Control, ACL 2023  [[arXiv](https://arxiv.org/abs/2210.17432), [code](https://github.com/xhan77/ssd-lm)]
-* Diffusion-LM Improves Controllable Text Generation, NeurIPS 2022  [[arXiv](https://arxiv.org/abs/2205.14217), [code](https://github.com/XiangLi1999/Diffusion-LM.git)]
-* Self-conditioned Embedding Diffusion for Text Generation, NeurIPS 2022 [[arXiv](https://arxiv.org/abs/2211.04236)]
-* Continuous diffusion for categorical data, arXiv 2022  [[arXiv](https://arxiv.org/abs/2211.15089)]
-  
 ### Discrete Diffusion with Discrete Noise   <a name="discrete"></a>
 * Simple and Effective Masked Diffusion Language Models, NeurIPS 2024 [[arXiv](https://arxiv.org/abs/2406.07524), [code](https://github.com/kuleshov-group/mdlm)]
 * Simplified and Generalized Masked Diffusion for Discrete Data, NeurIPS 2024 [[arXiv](https://arxiv.org/abs/2406.04329)]
@@ -64,6 +57,13 @@ This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair 
 * Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions, NeurIPS 2021  [[arXiv](https://arxiv.org/abs/2102.05379), [code](https://github.com/didriknielsen/argmax_flows)]
 * Structured Denoising Diffusion Models in Discrete State-Spaces, NeurIPS 2021  [[arXiv](https://arxiv.org/abs/2107.03006), [code](https://github.com/google-research/google-research/tree/master/d3pm)]
 
+### Discrete Diffusion with Gaussian Noise  <a name="gaussian"></a>
+
+* SSD-LM: Semi-autoregressive Simplex-based Diffusion Language Model for Text Generation and Modular Control, ACL 2023  [[arXiv](https://arxiv.org/abs/2210.17432), [code](https://github.com/xhan77/ssd-lm)]
+* Diffusion-LM Improves Controllable Text Generation, NeurIPS 2022  [[arXiv](https://arxiv.org/abs/2205.14217), [code](https://github.com/XiangLi1999/Diffusion-LM.git)]
+* Self-conditioned Embedding Diffusion for Text Generation, NeurIPS 2022 [[arXiv](https://arxiv.org/abs/2211.04236)]
+* Continuous diffusion for categorical data, arXiv 2022  [[arXiv](https://arxiv.org/abs/2211.15089)]
+  
 ### Samplers  <a name="samplers"></a>
 * Beyond Autoregression: Fast LLMs via Self-Distillation Through Time, arXiv 2024 [[arXiv](https://arxiv.org/abs/2410.21035)]
 * Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling, arXiv 2024 [[arXiv](https://arxiv.org/abs/2409.02908)]
@@ -87,4 +87,4 @@ This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair 
 ### Applications  <a name="applications"></a>
 
 * Diffusion Language Models Can Perform Many Tasks with Scaling and Instruction-Finetuning, arXiv 2023 [[arXiv](https://arxiv.org/abs/2308.12219), [code](https://github.com/yegcjs/DiffusionLLM)]
-
+* Likelihood-Based Diffusion Language Models, NeurIPS 2023 [[arXiv](https://arxiv.org/abs/2305.18619), [code](https://github.com/igul222/plaid)]
