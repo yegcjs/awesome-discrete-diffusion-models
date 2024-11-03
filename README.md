@@ -28,13 +28,12 @@ This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair 
 * Diffusion Language Models  [[URL](https://benanne.github.io/2023/01/09/diffusion-language.html)]
 * My notes on discrete denoising diffusion models (D3PMs)[[URL](https://beckham.nz/2022/07/11/d3pms.html)]
 
-## Resources
+## Papers
 
 ### Surveys
 
-* Diffusion Models: A Comprehensive Survey of Methods and Applications, arXiv 2022  [[PDF](https://arxiv.org/pdf/2209.00796)]
-
-* Diffusion Models for Non-autoregressive Text Generation: A Survey, arXiv 2022 [[PDF](https://arxiv.org/abs/2303.06574)]
+* Diffusion Models for Non-autoregressive Text Generation: A Survey [[arxiv](https://arxiv.org/abs/2303.06574)]
+* A Survey of Diffusion Models in Natural Language Processing [[arxiv](https://arxiv.org/abs/2305.14671)]
 
 ### Papers
 
@@ -69,10 +68,3 @@ This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair 
 * Structured Denoising Diffusion Models in Discrete State-Spaces, NeurIPS 2021  [[PDF](https://arxiv.org/pdf/2107.03006.pdf)]
 
 * Discovering Non-monotonic Autoregressive Orderings with Variational Inference, ICLR 2021  [[PDF](https://arxiv.org/abs/2110.15797)]
-
-## Blog Posts
-
-* Diffusion Language Models,  [[URL](https://benanne.github.io/2023/01/09/diffusion-language.html)]
-
-## Talks
-* Bit Diffusion: Generating Discrete Data using Diffusion Models,  [[URL](https://www.youtube.com/watch?v=Pe6l69Y4LNk&t=51s)]
