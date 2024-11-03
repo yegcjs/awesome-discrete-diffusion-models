@@ -12,7 +12,7 @@ This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair 
 ```
 ## Table of Contents
 
-* [Introductory Posts](#introduction)
+* [Introductory Materials](#introduction)
 * Papers
   * [Surveys](#surveys)
   * [Discrete Diffusion with Discrete Noise](#discrete)
@@ -23,8 +23,8 @@ This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair 
   * [Theory](#theory)
   * [Applications](#applications)
 
-## Introductory Posts  <a name="introduction"></a>
-* A "simple and effective" tutorial on Masked Diffusion Language Models, 2024.
+## Introductory Materials  <a name="introduction"></a>
+* Getting started with Diffusion Language Models, 2024.
 <p align="center">
   <a href="https://youtu.be/WjAUX23vgfg?si=bM1E-Bt-nwOmsVif" title="Click">
     <img src="https://github.com/user-attachments/assets/1f6b7ba2-b423-483a-9d11-bbbeb8a11860" alt="Everything Is AWESOME" style="width:50%;">
