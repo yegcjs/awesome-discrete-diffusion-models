@@ -56,14 +56,18 @@ This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair 
 * DiffusER: Discrete Diffusion via Edit-based Reconstruction, ICLR 2023  [[arXiv](https://arxiv.org/abs/2210.16886), [code](https://github.com/machelreid/diffuser)]
 * Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning, ICLR 2023  [[arXiv](https://arxiv.org/abs/2208.04202), [code](https://github.com/google-research/pix2seq)]
 * DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models, ICLR 2023 [[arXiv](https://arxiv.org/abs/2210.08933), [code](https://github.com/Shark-NLP/DiffuSeq)]
+* FiLM: Fill-in Language Models for Any-Order Generation [[arXiv](https://arxiv.org/abs/2310.09930), [code](https://github.com/shentianxiao/FiLM)]
 * EdiT5: Semi-Autoregressive Text Editing with T5 Warm-Start, arXiv 2022  [[arXiv](https://arxiv.org/abs/2205.12209), [code](https://edit5.page.link/code)]
 * A Continuous Time Framework for Discrete Denoising Models, NeurIPS 2022 [[arXiv](https://arxiv.org/abs/2205.14987), [code](https://github.com/andrew-cr/tauLDR)]
 * Autoregressive Diffusion Models, ICLR 2022  [[arXiv](https://arxiv.org/abs/2110.02037)]
 * Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions, NeurIPS 2021  [[arXiv](https://arxiv.org/abs/2102.05379), [code](https://github.com/didriknielsen/argmax_flows)]
 * Structured Denoising Diffusion Models in Discrete State-Spaces, NeurIPS 2021  [[arXiv](https://arxiv.org/abs/2107.03006), [code](https://github.com/google-research/google-research/tree/master/d3pm)]
 
-### Guidance Mechanisms  <a name="guidance"></a>
+### Samplers
+* Jump Your Steps: Optimizing Sampling Schedule of Discrete Diffusion Models [[arXiv](https://arxiv.org/abs/2410.07761)]
 
+### Guidance Mechanisms  <a name="guidance"></a>
+* Steering Masked Discrete Diffusion Models via Discrete Denoising Posterior Prediction, arXiv 2024 [[arXiv](https://arxiv.org/abs/2410.08134)]
 * Unlocking Guidance for Discrete State-Space Diffusion and Flow Models, arXiv 2024 [[arXiv](https://arxiv.org/abs/2406.01572)]
 * Protein Design with Guided Discrete Diffusion, NeurIPS 2023 [[arXiv](https://arxiv.org/abs/2305.20009), [code](https://github.com/ngruver/NOS)]
 
@@ -73,8 +77,8 @@ This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair 
 * DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models, ACL 2023 [[arXiv](https://arxiv.org/abs/2211.15029), [code](https://github.com/Hzfinfdu/Diffusion-BERT)]
 
 ### Theory  <a name="theory"></a>
-
-* Formulating Discrete Probability Flow Through Optimal Transport, NeurIPS 2023 [[arXiv](https://arxiv.org/abs/2311.03886)]
+* Discrete Copula Diffusion, arXiv 2024 [[arXiv](https://arxiv.org/abs/2410.01949)]
+* Formulating Discrete Probability Flow Through Optimal Transport, NeurIPS 2023 [[arXiv](https://arxiv.org/abs/2311.03886), [code](https://github.com/PangzeCheung/Discrete-Probability-Flow)]
 * Categorical SDEs with Simplex Diffusion, arXiv 2022  [[arXiv](https://arxiv.org/abs/2210.14784)]
 
 ### Applications  <a name="applications"></a>
