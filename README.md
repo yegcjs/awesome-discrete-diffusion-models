@@ -42,40 +42,40 @@ This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair 
 
 ### Discrete Diffusion with Gaussian Noise  <a name="gaussian"></a>
 
-* Continuous diffusion for categorical data, arXiv 2022  [[arXiv](https://dl.acm.org/doi/10.1145/3394486.3403237)]
-* SSD-LM: Semi-autoregressive Simplex-based Diffusion Language Model for Text Generation and Modular Control, arXiv 2022  [[arXiv](https://openreview.net/forum?id=HJlWWJSFDH), [code](https://github.com/xhan77/ssd-lm)]
+* Continuous diffusion for categorical data, arXiv 2022  [[arXiv](https://arxiv.org/abs/2211.15089)]
+* SSD-LM: Semi-autoregressive Simplex-based Diffusion Language Model for Text Generation and Modular Control, ACL 2023  [[arXiv](https://openreview.net/forum?id=HJlWWJSFDH), [code](https://github.com/xhan77/ssd-lm)]
 * Diffusion-LM Improves Controllable Text Generation, NeurIPS 2022  [[arXiv](https://arxiv.org/abs/2205.14217), [code](https://github.com/XiangLi1999/Diffusion-LM.git)]
 * Self-conditioned Embedding Diffusion for Text Generation, NeurIPS 2022 [[arXiv](https://arxiv.org/abs/2211.04236)]
   
 ### Discrete Diffusion with Discrete Noise   <a name="discrete"></a>
-* Simple and Effective Masked Diffusion Language Models [[arXiv](https://arxiv.org/abs/2406.07524), [code](https://github.com/kuleshov-group/mdlm)]
-* Simplified and Generalized Masked Diffusion for Discrete Data [[arXiv](https://arxiv.org/abs/2406.04329)]
-* Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data [[arXiv](https://arxiv.org/abs/2406.03736), [code](https://github.com/ML-GSAI/RADD)]
-* Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution [[arXiv](https://arxiv.org/abs/2310.16834), [code](https://github.com/louaaron/Score-Entropy-Discrete-Diffusion)]
-* Generative Flows on Discrete State-Spaces: Enabling Multimodal Flows with Applications to Protein Co-Design [[arXiv](https://arxiv.org/abs/2402.04997)]
+* Simple and Effective Masked Diffusion Language Models, NeurIPS 2024 [[arXiv](https://arxiv.org/abs/2406.07524), [code](https://github.com/kuleshov-group/mdlm)]
+* Simplified and Generalized Masked Diffusion for Discrete Data, NeurIPS 2024 [[arXiv](https://arxiv.org/abs/2406.04329)]
+* Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data, arXiv 2024 [[arXiv](https://arxiv.org/abs/2406.03736), [code](https://github.com/ML-GSAI/RADD)]
+* Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution, ICML 2024 [[arXiv](https://arxiv.org/abs/2310.16834), [code](https://github.com/louaaron/Score-Entropy-Discrete-Diffusion)]
+* Generative Flows on Discrete State-Spaces: Enabling Multimodal Flows with Applications to Protein Co-Design, ICML 2024 [[arXiv](https://arxiv.org/abs/2402.04997)]
 * DiffusER: Discrete Diffusion via Edit-based Reconstruction, ICLR 2023  [[arXiv](https://arxiv.org/abs/2210.16886), [code](https://github.com/machelreid/diffuser)]
 * Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning, ICLR 2023  [[arXiv](https://arxiv.org/abs/2208.04202), [code](https://github.com/google-research/pix2seq)]
-* DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models [[arXiv](https://arxiv.org/abs/2210.08933), [code](https://github.com/Shark-NLP/DiffuSeq)]
+* DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models, ICLR 2023 [[arXiv](https://arxiv.org/abs/2210.08933), [code](https://github.com/Shark-NLP/DiffuSeq)]
 * EdiT5: Semi-Autoregressive Text Editing with T5 Warm-Start, arXiv 2022  [[arXiv](https://arxiv.org/abs/2205.12209), [code](https://edit5.page.link/code)]
-* A Continuous Time Framework for Discrete Denoising Models [[arXiv](https://arxiv.org/abs/2205.14987), [code](https://github.com/andrew-cr/tauLDR)]
+* A Continuous Time Framework for Discrete Denoising Models, EMNLP 2022 [[arXiv](https://arxiv.org/abs/2205.14987), [code](https://github.com/andrew-cr/tauLDR)]
 * Autoregressive Diffusion Models, ICLR 2022  [[arXiv](https://arxiv.org/abs/2110.02037)]
 * Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions, NeurIPS 2021  [[arXiv](https://arxiv.org/abs/2102.05379)]
 * Structured Denoising Diffusion Models in Discrete State-Spaces, NeurIPS 2021  [[arXiv](https://arxiv.org/abs/2107.03006), [code](https://arxiv.org/pdf/2305.20009)]
 
 ### Guidance Mechanisms  <a name="guidance"></a>
 
-* Unlocking Guidance for Discrete State-Space Diffusion and Flow Models [[arXiv](https://arxiv.org/abs/2406.01572)]
-* Protein Design with Guided Discrete Diffusion, Neurips 2023 [[arXiv](https://arxiv.org/abs/2305.20009)]
+* Unlocking Guidance for Discrete State-Space Diffusion and Flow Models, arXiv 2024 [[arXiv](https://arxiv.org/abs/2406.01572)]
+* Protein Design with Guided Discrete Diffusion, NeurIPS 2023 [[arXiv](https://arxiv.org/abs/2305.20009)]
 
 ### Custom Noise Processes  <a name="custom"></a>
 
-* DINOISER: Diffused Conditional Sequence Learning By Manipulating Noises, TACL [[arXiv](https://arxiv.org/abs/2302.10025), [code](https://github.com/yegcjs/DINOISER)]
-* DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models [[arXiv](), [code]()]
+* DINOISER: Diffused Conditional Sequence Learning By Manipulating Noises, TACL 2024 [[arXiv](https://arxiv.org/abs/2302.10025), [code](https://github.com/yegcjs/DINOISER)]
+* DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models, ACL 2023 [[arXiv](), [code](https://github.com/Hzfinfdu/Diffusion-BERT)]
 
 ### Theory  <a name="theory"></a>
 
 * Categorical SDEs with Simplex Diffusion, arXiv 2022  [[arXiv](https://arxiv.org/abs/2210.14784)]
-* Formulating Discrete Probability Flow Through Optimal Transport [[arXiv](https://arxiv.org/abs/2311.03886)]
+* Formulating Discrete Probability Flow Through Optimal Transport, NeurIPS 2023 [[arXiv](https://arxiv.org/abs/2311.03886)]
 
 ### Applications  <a name="applications"></a>
 
