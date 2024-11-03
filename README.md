@@ -17,6 +17,7 @@ This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair 
   * [Surveys](#surveys)
   * [Discrete Diffusion with Gaussian Noise](#gaussian)
   * [Discrete Diffusion with Discrete Noise](#discrete)
+  * [Samplers](#samplers)
   * [Guidance Mechanisms]("#guidance")
   * [Custom Noise Processes]("#custom")
   * [Theory](#theory)
@@ -63,7 +64,7 @@ This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair 
 * Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions, NeurIPS 2021  [[arXiv](https://arxiv.org/abs/2102.05379), [code](https://github.com/didriknielsen/argmax_flows)]
 * Structured Denoising Diffusion Models in Discrete State-Spaces, NeurIPS 2021  [[arXiv](https://arxiv.org/abs/2107.03006), [code](https://github.com/google-research/google-research/tree/master/d3pm)]
 
-### Samplers
+### Samplers  <a name="samplers"></a>
 * Jump Your Steps: Optimizing Sampling Schedule of Discrete Diffusion Models [[arXiv](https://arxiv.org/abs/2410.07761)]
 
 ### Guidance Mechanisms  <a name="guidance"></a>
