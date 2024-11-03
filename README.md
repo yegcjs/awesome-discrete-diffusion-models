@@ -60,7 +60,7 @@ This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair 
 * A Continuous Time Framework for Discrete Denoising Models, EMNLP 2022 [[arXiv](https://arxiv.org/abs/2205.14987), [code](https://github.com/andrew-cr/tauLDR)]
 * Autoregressive Diffusion Models, ICLR 2022  [[arXiv](https://arxiv.org/abs/2110.02037)]
 * Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions, NeurIPS 2021  [[arXiv](https://arxiv.org/abs/2102.05379)]
-* Structured Denoising Diffusion Models in Discrete State-Spaces, NeurIPS 2021  [[arXiv](https://arxiv.org/abs/2107.03006), [code](https://arxiv.org/pdf/2305.20009)]
+* Structured Denoising Diffusion Models in Discrete State-Spaces, NeurIPS 2021  [[arXiv](https://arxiv.org/abs/2107.03006), [code](https://github.com/google-research/google-research/tree/master/d3pm)]
 
 ### Guidance Mechanisms  <a name="guidance"></a>
 
@@ -70,7 +70,7 @@ This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair 
 ### Custom Noise Processes  <a name="custom"></a>
 
 * DINOISER: Diffused Conditional Sequence Learning By Manipulating Noises, TACL 2024 [[arXiv](https://arxiv.org/abs/2302.10025), [code](https://github.com/yegcjs/DINOISER)]
-* DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models, ACL 2023 [[arXiv](), [code](https://github.com/Hzfinfdu/Diffusion-BERT)]
+* DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models, ACL 2023 [[arXiv](https://arxiv.org/abs/2211.15029), [code](https://github.com/Hzfinfdu/Diffusion-BERT)]
 
 ### Theory  <a name="theory"></a>
 
