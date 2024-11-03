@@ -2,11 +2,11 @@
 
  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![GitHub stars](https://img.shields.io/github/stars/isjakewong/awesome-discrete-diffusion-models?color=yellow)  ![GitHub forks](https://img.shields.io/github/forks/isjakewong/awesome-discrete-diffusion-models?color=green&label=Fork)
 
-A curated list for awesome dicrete diffusion models resources.
+A curated list of awesome discrete diffusion models resources.
 
 ## Contribution
 
-This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair Schiff](https://yair-schiff.github.io/), and [Subham Sahoo](https://s-sahoo.com/). Feel free to send [pull requests](https://github.com/isjakewong/awesome-discrete-diffusion-models/pulls) to add more links! While adding papers, please follow the following format: 
+This repo is maintained by [Subham Sahoo](https://s-sahoo.com/), [Yingheng Wang](https://isjakewong.github.io), and [Yair Schiff](https://yair-schiff.github.io/). Feel free to send [pull requests](https://github.com/isjakewong/awesome-discrete-diffusion-models/pulls) to add more links! While adding papers, please follow the following format: 
 ```
 {paper-name}, {conference} {year} [[link-to-the-abstract-page], [code-if-available]]
 ```
