@@ -60,11 +60,12 @@ This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair 
 * A Continuous Time Framework for Discrete Denoising Models [[arXiv](https://arxiv.org/abs/2205.14987), [code](https://github.com/andrew-cr/tauLDR)]
 * Autoregressive Diffusion Models, ICLR 2022  [[arXiv](https://arxiv.org/abs/2110.02037)]
 * Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions, NeurIPS 2021  [[arXiv](https://arxiv.org/abs/2102.05379)]
-* Structured Denoising Diffusion Models in Discrete State-Spaces, NeurIPS 2021  [[arXiv](https://arxiv.org/abs/2107.03006)]
+* Structured Denoising Diffusion Models in Discrete State-Spaces, NeurIPS 2021  [[arXiv](https://arxiv.org/abs/2107.03006), [code](https://arxiv.org/pdf/2305.20009)]
 
 ### Guidance Mechanisms  <a name="guidance"></a>
 
 * Unlocking Guidance for Discrete State-Space Diffusion and Flow Models [[arXiv](https://arxiv.org/abs/2406.01572)]
+* Protein Design with Guided Discrete Diffusion, Neurips 2023 [[arXiv](https://arxiv.org/abs/2305.20009)]
 
 ### Custom Noise Processes  <a name="custom"></a>
 
