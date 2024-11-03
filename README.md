@@ -57,7 +57,7 @@ This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair 
 * DiffusER: Discrete Diffusion via Edit-based Reconstruction, ICLR 2023  [[arXiv](https://arxiv.org/abs/2210.16886), [code](https://github.com/machelreid/diffuser)]
 * Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning, ICLR 2023  [[arXiv](https://arxiv.org/abs/2208.04202), [code](https://github.com/google-research/pix2seq)]
 * DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models, ICLR 2023 [[arXiv](https://arxiv.org/abs/2210.08933), [code](https://github.com/Shark-NLP/DiffuSeq)]
-* FiLM: Fill-in Language Models for Any-Order Generation [[arXiv](https://arxiv.org/abs/2310.09930), [code](https://github.com/shentianxiao/FiLM)]
+* FiLM: Fill-in Language Models for Any-Order Generation, arXiv 2023 [[arXiv](https://arxiv.org/abs/2310.09930), [code](https://github.com/shentianxiao/FiLM)]
 * EdiT5: Semi-Autoregressive Text Editing with T5 Warm-Start, arXiv 2022  [[arXiv](https://arxiv.org/abs/2205.12209), [code](https://edit5.page.link/code)]
 * A Continuous Time Framework for Discrete Denoising Models, NeurIPS 2022 [[arXiv](https://arxiv.org/abs/2205.14987), [code](https://github.com/andrew-cr/tauLDR)]
 * Autoregressive Diffusion Models, ICLR 2022  [[arXiv](https://arxiv.org/abs/2110.02037)]
