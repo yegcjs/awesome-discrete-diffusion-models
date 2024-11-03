@@ -12,12 +12,17 @@ This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair 
 ```
 ## Table of Contents
 
-* [Introduction](#introduction)
+* [Introductory Posts](#introduction)
 * [Papers](#papers)
   * [Surveys](#surveys)
-  * [Papers](#papers)
+  * [Discrete Diffusion with Gaussian Noise](#gaussian)
+  * [Discrete Diffusion with Discrete Noise](#discrete)
+  * [Guidance Mechanisms]("#guidance")
+  * [Custom Noise Processes]("#custom")
+  * [Theory](#theory)
+  * [Applications](#applications)
 
-## Introductory Posts
+## Introductory Posts  <a name="introduction"></a>
 * A "simple and effective" tutorial on Masked Diffusion Language Models.
 <p align="center">
   <a href="https://youtu.be/WjAUX23vgfg?si=bM1E-Bt-nwOmsVif" title="Click">
@@ -28,21 +33,21 @@ This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair 
 * Diffusion Language Models  [[URL](https://benanne.github.io/2023/01/09/diffusion-language.html)]
 * My notes on discrete denoising diffusion models (D3PMs)[[URL](https://beckham.nz/2022/07/11/d3pms.html)]
 
-## Papers
+## Papers  <a name="papers"></a>
 
-### Surveys
+### Surveys   <a name="surveys"></a>
 
 * Diffusion Models for Non-autoregressive Text Generation: A Survey [[arXiv](https://arxiv.org/abs/2303.06574)]
 * A Survey of Diffusion Models in Natural Language Processing [[arXiv](https://arxiv.org/abs/2305.14671)]
 
-### Discrete Diffusion with Gaussian Noise
+### Discrete Diffusion with Gaussian Noise  <a name="gaussian"></a>
 
 * Continuous diffusion for categorical data, arXiv 2022  [[arXiv](https://dl.acm.org/doi/10.1145/3394486.3403237)]
 * SSD-LM: Semi-autoregressive Simplex-based Diffusion Language Model for Text Generation and Modular Control, arXiv 2022  [[arXiv](https://openreview.net/forum?id=HJlWWJSFDH), [code](https://github.com/xhan77/ssd-lm)]
 * Diffusion-LM Improves Controllable Text Generation, NeurIPS 2022  [[arXiv](https://arxiv.org/abs/2205.14217), [code](https://github.com/XiangLi1999/Diffusion-LM.git)]
 * Self-conditioned Embedding Diffusion for Text Generation, NeurIPS 2022 [[arXiv](https://arxiv.org/abs/2211.04236)]
   
-### Discrete Diffusion with Discrete Noise
+### Discrete Diffusion with Discrete Noise   <a name="discrete"></a>
 * Simple and Effective Masked Diffusion Language Models [[arXiv](https://arxiv.org/abs/2406.07524), [code](https://github.com/kuleshov-group/mdlm)]
 * Simplified and Generalized Masked Diffusion for Discrete Data [[arXiv](https://arxiv.org/abs/2406.04329)]
 * Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data [[arXiv](https://arxiv.org/abs/2406.03736), [code](https://github.com/ML-GSAI/RADD)]
@@ -57,21 +62,21 @@ This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair 
 * Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions, NeurIPS 2021  [[arXiv](https://arxiv.org/abs/2102.05379)]
 * Structured Denoising Diffusion Models in Discrete State-Spaces, NeurIPS 2021  [[arXiv](https://arxiv.org/abs/2107.03006)]
 
-### Guidance Mechanisms
+### Guidance Mechanisms  <a name="guidance"></a>
 
 * Unlocking Guidance for Discrete State-Space Diffusion and Flow Models [[arXiv](https://arxiv.org/abs/2406.01572)]
 
-### Custom Noise Processes
+### Custom Noise Processes  <a name="custom"></a>
 
 * DINOISER: Diffused Conditional Sequence Learning By Manipulating Noises, TACL [[arXiv](https://arxiv.org/abs/2302.10025), [code](https://github.com/yegcjs/DINOISER)]
 * DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models [[arXiv](), [code]()]
 
-### Theory
+### Theory  <a name="theory"></a>
 
 * Categorical SDEs with Simplex Diffusion, arXiv 2022  [[arXiv](https://arxiv.org/abs/2210.14784)]
 * Formulating Discrete Probability Flow Through Optimal Transport [[arXiv](https://arxiv.org/abs/2311.03886)]
 
-### Applications
+### Applications  <a name="applications"></a>
 
 * Diffusion Language Models Can Perform Many Tasks with Scaling and Instruction-Finetuning, arXiv 2023 [[arXiv](https://arxiv.org/abs/2308.12219), [code](https://github.com/yegcjs/DiffusionLLM)]
 
