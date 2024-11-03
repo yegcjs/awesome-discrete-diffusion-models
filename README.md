@@ -36,17 +36,17 @@ This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair 
 ### Discrete Diffusion with Gaussian Noise
 
 * Continuous diffusion for categorical data, arXiv 2022  [[arXiv](https://dl.acm.org/doi/10.1145/3394486.3403237)]
-* SSD-LM: Semi-autoregressive Simplex-based Diffusion Language Model for Text Generation and Modular Control, arXiv 2022  [[arXiv](https://openreview.net/forum?id=HJlWWJSFDH), [Code](https://github.com/xhan77/ssd-lm)]
-* Diffusion-LM Improves Controllable Text Generation, NeurIPS 2022  [[arXiv](https://arxiv.org/abs/2205.14217), [Code](https://github.com/XiangLi1999/Diffusion-LM.git)]
+* SSD-LM: Semi-autoregressive Simplex-based Diffusion Language Model for Text Generation and Modular Control, arXiv 2022  [[arXiv](https://openreview.net/forum?id=HJlWWJSFDH), [code](https://github.com/xhan77/ssd-lm)]
+* Diffusion-LM Improves Controllable Text Generation, NeurIPS 2022  [[arXiv](https://arxiv.org/abs/2205.14217), [code](https://github.com/XiangLi1999/Diffusion-LM.git)]
 * Self-conditioned Embedding Diffusion for Text Generation, NeurIPS 2022 [[arXiv](https://arxiv.org/abs/2211.04236)]
   
 ### Discrete Diffusion with Discrete Noise
-* Simple and Effective Masked Diffusion Language Models [[arXiv](https://arxiv.org/abs/2406.07524), [Code](https://github.com/kuleshov-group/mdlm)]
-* Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution [[arXiv](https://arxiv.org/abs/2310.16834), [Code](https://github.com/louaaron/Score-Entropy-Discrete-Diffusion)]
+* Simple and Effective Masked Diffusion Language Models [[arXiv](https://arxiv.org/abs/2406.07524), [code](https://github.com/kuleshov-group/mdlm)]
+* Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution [[arXiv](https://arxiv.org/abs/2310.16834), [code](https://github.com/louaaron/Score-Entropy-Discrete-Diffusion)]
 * Generative Flows on Discrete State-Spaces: Enabling Multimodal Flows with Applications to Protein Co-Design [[arXiv](https://arxiv.org/abs/2402.04997)]
-* DiffusER: Discrete Diffusion via Edit-based Reconstruction, ICLR 2023  [[arXiv](https://arxiv.org/abs/2210.16886), [Code](https://github.com/machelreid/diffuser)]
-* Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning, ICLR 2023  [[arXiv](https://arxiv.org/abs/2208.04202), [Code](https://github.com/google-research/pix2seq)]
-* EdiT5: Semi-Autoregressive Text Editing with T5 Warm-Start, arXiv 2022  [[arXiv](https://arxiv.org/abs/2205.12209), [Code](https://edit5.page.link/code)]
+* DiffusER: Discrete Diffusion via Edit-based Reconstruction, ICLR 2023  [[arXiv](https://arxiv.org/abs/2210.16886), [code](https://github.com/machelreid/diffuser)]
+* Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning, ICLR 2023  [[arXiv](https://arxiv.org/abs/2208.04202), [code](https://github.com/google-research/pix2seq)]
+* EdiT5: Semi-Autoregressive Text Editing with T5 Warm-Start, arXiv 2022  [[arXiv](https://arxiv.org/abs/2205.12209), [code](https://edit5.page.link/code)]
 * Autoregressive Diffusion Models, ICLR 2022  [[arXiv](https://arxiv.org/abs/2110.02037)]
 * Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions, NeurIPS 2021  [[arXiv](https://arxiv.org/abs/2102.05379)]
 * Structured Denoising Diffusion Models in Discrete State-Spaces, NeurIPS 2021  [[arXiv](https://arxiv.org/abs/2107.03006)]
@@ -57,8 +57,8 @@ This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair 
 
 ### Custom Noise Processes
 
-* DINOISER: Diffused Conditional Sequence Learning By Manipulating Noises, TACL [[arXiv](https://arxiv.org/abs/2302.10025), [Code](https://github.com/yegcjs/DINOISER)]
-
+* DINOISER: Diffused Conditional Sequence Learning By Manipulating Noises, TACL [[arXiv](https://arxiv.org/abs/2302.10025), [code](https://github.com/yegcjs/DINOISER)]
+* DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models [[arXiv](), [code]()]
 
 ### Theory
 
@@ -67,5 +67,5 @@ This repo is maintained by [Yingheng Wang](https://isjakewong.github.io), [Yair 
 
 ### Applications
 
-* Diffusion Language Models Can Perform Many Tasks with Scaling and Instruction-Finetuning, arXiv 2023 [[arXiv](https://arxiv.org/abs/2308.12219), [Code](https://github.com/yegcjs/DiffusionLLM)]
+* Diffusion Language Models Can Perform Many Tasks with Scaling and Instruction-Finetuning, arXiv 2023 [[arXiv](https://arxiv.org/abs/2308.12219), [code](https://github.com/yegcjs/DiffusionLLM)]
 
