@@ -10,6 +10,8 @@ This repo is maintained by [Subham Sahoo](https://s-sahoo.com/), [Yingheng Wang]
 ```
 {paper-name}, {conference} {year} [[link-to-the-abstract-page], [code-if-available]]
 ```
+Most recent accepted papers should get a higher precedence over unaccepted papers or older papers.
+
 ## Table of Contents
 
 * [Introductory Materials](#introduction)
