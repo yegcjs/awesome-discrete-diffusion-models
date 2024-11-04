@@ -58,7 +58,7 @@ This repo is maintained by [Subham Sahoo](https://s-sahoo.com/), [Yingheng Wang]
 * SSD-LM: Semi-autoregressive Simplex-based Diffusion Language Model for Text Generation and Modular Control, ACL 2023  [[arXiv](https://arxiv.org/abs/2210.17432), [code](https://github.com/xhan77/ssd-lm)]
 * Diffusion-LM Improves Controllable Text Generation, NeurIPS 2022  [[arXiv](https://arxiv.org/abs/2205.14217), [code](https://github.com/XiangLi1999/Diffusion-LM.git)]
 * Self-conditioned Embedding Diffusion for Text Generation, NeurIPS 2022 [[arXiv](https://arxiv.org/abs/2211.04236)]
-* Continuous diffusion for categorical data, arXiv 2022  [[arXiv](https://arxiv.org/abs/2211.15089)]
+* Continuous Diffusion for Categorical Data, arXiv 2022  [[arXiv](https://arxiv.org/abs/2211.15089)]
   
 ### Samplers  <a name="samplers"></a>
 * Beyond Autoregression: Fast LLMs via Self-Distillation Through Time, arXiv 2024 [[arXiv](https://arxiv.org/abs/2410.21035)]
