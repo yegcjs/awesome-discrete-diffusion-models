@@ -37,9 +37,9 @@ This repo is maintained by [Subham Sahoo](https://s-sahoo.com/), [Yingheng Wang]
 ## Papers  <a name="papers"></a>
 
 ### Discrete Diffusion with Discrete Noise   <a name="discrete"></a>
-* Think While You Generate: Discrete Diffusion with Planned Denoising, arXiv 2024 [[arXiv](https://arxiv.org/pdf/2410.06264), [code](https://github.com/liusulin/DDPD)]
 * Simple and Effective Masked Diffusion Language Models, NeurIPS 2024 [[arXiv](https://arxiv.org/abs/2406.07524), [code](https://github.com/kuleshov-group/mdlm)]
 * Simplified and Generalized Masked Diffusion for Discrete Data, NeurIPS 2024 [[arXiv](https://arxiv.org/abs/2406.04329)]
+* Think While You Generate: Discrete Diffusion with Planned Denoising, arXiv 2024 [[arXiv](https://arxiv.org/pdf/2410.06264), [code](https://github.com/liusulin/DDPD)]
 * Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data, arXiv 2024 [[arXiv](https://arxiv.org/abs/2406.03736), [code](https://github.com/ML-GSAI/RADD)]
 * Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution, ICML 2024 [[arXiv](https://arxiv.org/abs/2310.16834), [code](https://github.com/louaaron/Score-Entropy-Discrete-Diffusion)]
 * Generative Flows on Discrete State-Spaces: Enabling Multimodal Flows with Applications to Protein Co-Design, ICML 2024 [[arXiv](https://arxiv.org/abs/2402.04997)]
@@ -81,11 +81,11 @@ This repo is maintained by [Subham Sahoo](https://s-sahoo.com/), [Yingheng Wang]
 * Categorical SDEs with Simplex Diffusion, arXiv 2022  [[arXiv](https://arxiv.org/abs/2210.14784)]
 
 ### Applications  <a name="applications"></a>
+* Fine-Tuning Discrete Diffusion Models via Reward Optimization with Applications to DNA and Protein Design, arXiv 2024 [[arXiv](https://arxiv.org/pdf/2410.13643), [code](https://github.com/ChenyuWang-Monica/DRAKES)]
 * Scaling Diffusion Language Models via Adaptation from Autoregressive Models, arXiv 2024 [[arXiv](https://arxiv.org/abs/2410.17891)]
 * Scaling up Masked Diffusion Models on Text, arXiv 2024 [[arXiv](https://arxiv.org/abs/2410.18514)]
 * Likelihood-Based Diffusion Language Models, NeurIPS 2023 [[arXiv](https://arxiv.org/abs/2305.18619), [code](https://github.com/igul222/plaid)]
 * Diffusion Language Models Can Perform Many Tasks with Scaling and Instruction-Finetuning, arXiv 2023 [[arXiv](https://arxiv.org/abs/2308.12219), [code](https://github.com/yegcjs/DiffusionLLM)]
-* Fine-Tuning Discrete Diffusion Models via Reward Optimization with Applications to DNA and Protein Design, arXiv 2024 [[arXiv](https://arxiv.org/pdf/2410.13643), [code](https://github.com/ChenyuWang-Monica/DRAKES)]
 
 ### Surveys   <a name="surveys"></a>
 
